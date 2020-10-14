@@ -25,7 +25,7 @@ SECRET_KEY = '^-$0w%cyh4s2ku_2^73c#&2)u6(u!92(ge^wu1^1zbqw=l2_-6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['likelion-session4th-env.eba-6nmrexqz.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
